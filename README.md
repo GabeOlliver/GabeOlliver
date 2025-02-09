@@ -1,11 +1,10 @@
 #   𝔾𝕒𝕓𝕣𝕚𝕖𝕝 𝕆𝕝𝕚𝕧𝕖𝕚𝕣𝕒
 <table>
   <tr>
-    <!-- Coluna da imagem -->
     <td style="width: 2000px;">
       <img src="https://github.com/user-attachments/assets/2191f8d0-8ef3-47dd-ac65-5d4573ad2f95" alt="Minha Foto" width="900px">
     </td>
-    <td style="padding-left: 20px; vertical-align: top;">
+    <td style="padding-left: 10px; vertical-align: top;">
       <h3>🖥️Technologies</h3>
       <ul>
         <li><strong>Languages:</strong> Java, TypeScript</li>
