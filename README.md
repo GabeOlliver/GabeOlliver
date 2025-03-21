@@ -18,7 +18,7 @@
       <h3>🎯 Things that i like</h3>
       <ul>
         <li>Full-stack development.</li>
-        <li>CyberSecurity, network engineering, software architecture, ethical hacking.
+        <li>Work with data, CyberSecurity, network engineering, software architecture, ethical hacking.
         </li>
       </ul>
       <h3>👨‍💻 About me</h3>
